@@ -1,5 +1,7 @@
 # Central Authentication Service (CAS)
-
+<p>
+  <img src='https://www.codeship.io/projects/11acb200-182a-0131-6024-0ef248b6a1b0/status'>
+</p>
 <http://www.jasig.org/cas>
 
 ## Introduction
